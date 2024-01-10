@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `MF Gatsby`,
+    title: `MF React Test`,
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-sitemap", "gatsby-plugin-mdx", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
